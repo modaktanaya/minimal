@@ -2,7 +2,7 @@ title: <p align="center"> Tanaya Modak </p>
 logo: assets/logo.png
 
 description:
-  <p align="justified">
+  
   <a href="https://www.linkedin.co/in/tanaya-modak-28870517a/">LinkedIn</a> |
   <a href="https://github.com/modaktanaya">GitHub</a>
   
@@ -10,5 +10,5 @@ description:
   I'm student pursuing Master's in Machine Learning and AI.
   I have completed my Bachelor's in Computer Science and working on Data Science and ML projects.
   <br>
-  </p>
+  
 theme: jekyll-theme-minimal
